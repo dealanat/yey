@@ -1,0 +1,26 @@
+<html>
+<head>
+    <style>
+        body {
+            background-color: #b7c7c3;
+            font-family: 'Times New Roman', serif;
+            font-size: 15px;
+            color: black;
+            text-align: center;
+        }
+        h1 {
+            font-size: 25px;
+        }
+        h2 {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Teacher</h1>
+        <h2>by: Halley Torida</h2>
+    </header>
+    <p>I was bullied for being gay, but that bullying became my strength and resilience. It inspired me to rise above the hate and make a positive impact in the world. Despite the challenges I faced during my school days, I embraced my true self and pursued my passion for teaching. Now, as a teacher, I strive to create a safe and inclusive environment for all students, spreading love, acceptance, and knowledge. My journey from a victim of bullying to an advocate for change is a testament to the power of standing up and making a difference. Put your trust in me when I say that I am capable of creating a social change.</p>
+</body>
+</html>
